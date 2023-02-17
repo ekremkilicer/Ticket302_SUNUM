@@ -5,12 +5,12 @@ Merhaba, Tiket302 İstanbul - Beşiktaş Wissen Akademi'de Kursiyerlik yaptığ�
 Burada projenin ekran resimlerini ve kaynak kodlardan bazı kod parçalarını aşağıda görebilirsiniz.
 
 PROJE HAKKINDA TEKNİK BİLGİLER:
-*Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
-*Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
-*Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
-*Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
-*Authorize işlemleri için JWT kullanıldı.
-*Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
+Proje Visual Studio .Net 6 ASP.NET MVC CORE API ile yazıldı.
+Proje Entity Framework Core Code-First yaklaşımıyla yazılmıştır.
+Projede AspnetCore Identity kullanarak üyelik sistemini yazdık.
+Projeyi 4 katman (EL,DAL,BLL,API) olarak yazdık.
+Authorize işlemleri için JWT kullanıldı.
+Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir. Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
 
 ![1](https://user-images.githubusercontent.com/120444709/219619070-0893f956-5356-4158-84e0-6df7573265f5.png)
 ![2](https://user-images.githubusercontent.com/120444709/219619085-7635cccd-e39c-47cc-a266-8ac93dfca06b.png)
